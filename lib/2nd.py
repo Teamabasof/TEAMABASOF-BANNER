@@ -12,5 +12,5 @@ def delay_print(s):
 delay_print
 delay_print (""+G+"╔════════════════════════════════════════╗  ""\n")
 delay_print (""+G+"║ Instagram: @ teamabasov                ║  ""\n")
-delay_print (""+G+"║ Github: https://github.com/Teamabasof  ║  ""\n")
+delay_print (""+G+"║ Telagram: https://t.me/eamabasov  ║  ""\n")
 delay_print (""+G+"╚════════════════════════════════════════╝  ""\n")
