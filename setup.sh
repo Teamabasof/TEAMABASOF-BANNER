@@ -2,9 +2,9 @@
 clear
 echo
 echo -e '\033[1;96m' "══════════════════════════════════════════"
-echo -e '\033[1;96m' " |        Created by 'MrHacker-X'       |"
+echo -e '\033[1;96m' " |        HAZIRLADI 'Teamabasof'       |"
 echo -e '\033[1;96m' "══════════════════════════════════════════"
-echo -e '\033[1;96m' " |        Instagram: @ 0hacker_x0       |"
+echo -e '\033[1;96m' " |        Instagram: @ teamabasov      |"
 echo -e '\033[1;96m' "══════════════════════════════════════════"
 echo
 echo -e '\033[1;96m' "YouTube: https://youtube.com/c/Sololex/"
@@ -26,9 +26,9 @@ echo
 clear
 echo
 echo -e '\033[1;96m' "══════════════════════════════════════════"
-echo -e '\033[1;96m' " |        Created by 'MrHacker-X'       |"
+echo -e '\033[1;96m' " |        HAZIRLADI 'Teamabasof'       |"
 echo -e '\033[1;96m' "══════════════════════════════════════════"
-echo -e '\033[1;96m' " |        Instagram: @ 0hacker_x0       |"
+echo -e '\033[1;96m' " |        Instagram: @ teamabasof      |"
 echo -e '\033[1;96m' "══════════════════════════════════════════"
 echo
 figlet Finished | lolcat
